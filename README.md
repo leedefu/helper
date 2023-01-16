@@ -1,4 +1,7 @@
 ## Blogs  
+- https://www.brendangregg.com/   
+  Brendan Gregg's Homepage 
+
 - https://coolshell.cn/  
   酷壳-陈皓 
 
